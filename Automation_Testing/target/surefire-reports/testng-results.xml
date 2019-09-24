@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regressionTest.RegressionTest" duration-ms="68" started-at="2019-09-09T08:39:19Z" finished-at="2019-09-09T08:39:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="68" started-at="2019-09-09T08:39:19Z" finished-at="2019-09-09T08:39:19Z">
+      <class name="regressionTest.RegressionTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:regressionTest.RegressionTest@35f983a6]" name="f" duration-ms="8" started-at="2019-09-09T14:09:19Z" finished-at="2019-09-09T14:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- regressionTest.RegressionTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- regressionTest.RegressionTest -->
+</testng-results>
